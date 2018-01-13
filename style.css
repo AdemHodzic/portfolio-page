@@ -1,0 +1,49 @@
+html,body{
+	width: 100%;
+	background-color: #bbb;
+}
+
+ul.nav{
+	float: right;
+}
+
+.jumbotron img{
+	max-width: 100%;
+	max-height: 100%
+}
+
+.jumbotron hr{
+	border: 5px solid rgba(3,3,3,0.1);
+
+}
+
+.projects{
+	width: 100%;
+	background-color: rgba(0,0,0,0.5);
+	margin-bottom: 2.5rem;
+}
+
+.projects img{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a,a:hover,a:visited,a:link,a:active{
+	color: #000;
+	text-decoration: none;
+}
+
+.contact{
+	background-color: #ccc;
+	padding: 0.5rem;
+}
+
+.contact a:hover{
+	color: #fff;
+	background-color: #000;
+}
+
+footer{
+	color: #fff;
+	background-color: rgba(0,0,0,0.66);
+}
